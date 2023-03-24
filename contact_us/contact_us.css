@@ -1,0 +1,15 @@
+._form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+._form .form_item {
+    display: flex;
+    flex-direction: column;
+    margin: 3%;
+}
+
+._form .form_item button{
+    align-items: center;
+}
