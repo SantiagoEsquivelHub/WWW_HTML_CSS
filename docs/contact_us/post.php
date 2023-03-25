@@ -4,8 +4,8 @@
 
     <h2>
         Welcome
-        <?php echo $_GET["name"]; ?>
-        <?php echo $_GET["last_name"]; ?>
+        <?php echo $_POST["name"]; ?>
+        <?php echo $_POST["last_name"]; ?>
 
     </h2>
 
