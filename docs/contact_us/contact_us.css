@@ -13,3 +13,30 @@
 ._form .form_item button{
     align-items: center;
 }
+
+.get_info{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 95vh;
+    justify-content: center;
+    padding: 5%;
+    width: 95vh;
+    margin: 0 auto;
+}
+
+.get_info h2{
+    margin-top: 5%;
+    text-align: center;
+    
+}
+
+.get_info .back{
+    margin-top: 5%;
+}
+
+.get_info .back a{
+    color: red;
+    text-decoration: none !important;
+    font-weight: bold;
+}
